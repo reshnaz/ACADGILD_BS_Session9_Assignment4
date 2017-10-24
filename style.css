@@ -1,0 +1,14 @@
+
+/*Applying suitable background gradient to page*/
+body{
+	background: linear-gradient(to bottom right,#D3D2D5,#EFEEEF);
+	height: 100%;
+	margin: 0;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+/*Setting body content alignment*/
+p{
+	text-align: justify;
+}
